@@ -63,19 +63,19 @@ const TeamSection: React.FC = () => {
       name: "Sarah Mitchell",
       role: "CEO & Founder",
       description: "With 15 years in the service industry, Sarah founded ServiceHub to connect customers with trusted professionals.",
-      image: "https://via.placeholder.com/200x200?text=Sarah+Mitchell"
+      image: "https://images.unsplash.com/photo-1494790108755-2616b612b605?w=300&h=300&fit=crop&crop=face"
     },
     {
       name: "David Rodriguez",
       role: "CTO",
       description: "David leads our technology team, ensuring our platform is secure, scalable, and user-friendly.",
-      image: "https://via.placeholder.com/200x200?text=David+Rodriguez"
+      image: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=300&h=300&fit=crop&crop=face"
     },
     {
       name: "Emily Chen",
       role: "Head of Operations",
       description: "Emily oversees quality assurance and ensures every service provider meets our high standards.",
-      image: "https://via.placeholder.com/200x200?text=Emily+Chen"
+      image: "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=300&h=300&fit=crop&crop=face"
     },
   ];
 

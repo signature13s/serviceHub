@@ -10,6 +10,7 @@ function App() {
  
     <Routes>
       <Route path='/' element={<Dashboard/>} />
+      <Route path='/serviceHub' element={<Dashboard/>} />
       <Route path='/services' element={<Service/>} />
       <Route path='/about' element={<About/>} />
       <Route path='/booking' element={<Booking/>} />
