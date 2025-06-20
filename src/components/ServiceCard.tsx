@@ -4,7 +4,7 @@ string; }> = ({ category, title, description, price, rating, location, time,
 image }) => { return (
 <div className="bg-white rounded-lg shadow-md p-4 m-2 w-full overflow-hidden hover:shadow-2xl transition-shadow duration-300 hover-scale">
   <img
-    src="{image}"
+    src={image}
     alt="{title}"
     className="w-full h-32 object-cover rounded-t-lg"
   />
