@@ -1,6 +1,6 @@
 import Service from './page/Service'
 import Dashboard from './page/Dashboard';
-import { BrowserRouter, Route, Routes } from 'react-router-dom';
+import {  Route, Routes } from 'react-router-dom';
 import About from './page/About';
 import Booking from './page/Booking';
 
